@@ -9,7 +9,11 @@ import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.text.Font;
-
+/**
+ * 
+ * @author jorge
+ * @version 1.0
+ */
 public class MainFX extends Application {
 	Stage stage;
 	@FXML
