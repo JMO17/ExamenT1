@@ -1,0 +1,22 @@
+.mytitle{
+    -fx-font-family: "Poiret One";
+    /*-fx-font-family: "Shadows Into Light";*/
+    -fx-font-size: 35.0;
+    
+}
+
+#paneArriba{
+    -fx-background-image: url("../view/blueforest.jpg");
+    -fx-background-repeat: repeat;   
+    -fx-background-size: 500 95;
+    -fx-background-position: center center;
+   
+}
+
+.boton :hover {
+    -fx-background-color: #FCB315;
+}
+
+#boton :hover {
+    -fx-background-color: #00990D;
+}
